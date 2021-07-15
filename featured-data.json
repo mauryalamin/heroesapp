@@ -25,6 +25,13 @@
                 "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/2439659-ohotmu_a_to_z__3___page_44.jpg",
                 "name" : "Ravonna",
                 "publisher": "Marvel"
+            },
+            {
+                "id" : 2264,
+                "deck" : "A time-traveling conqueror with vast powers and technological supremacy, Kang the Conqueror has taken every opportunity to torment the Marvel Universe, and is one of the Avengers' greatest foes. Kang has amassed an empire with a citizenry of millions, and cut a swath of terror through the ages.",
+                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3388625-youngavengers00503.jpg",
+                "name" : "Kang",
+                "publisher": "Marvel"
             }
         ]
     },
