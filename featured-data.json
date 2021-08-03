@@ -1,9 +1,12 @@
 [
     {
-        "id" : 1,
-        "tagline" : "Coming this June to Disney +",
+        "id" : 0,
+        "tagline" : "Now a Disney+ Series",
         "title" : "Loki",
-        "blurb" : "Loki, the God of Mischief, steps out of his brother’s shadow to embark on an adventure that takes place after the events of Avengers: Endgame.",
+        "blurb" : "Collects Loki (2019) #1-5, material from War of the Realms: Omega (2019) #1. Loki is - Earth’s Mightiest Hero?! After dying a grisly death in WAR OF THE REALMS, the reborn Trickster learned a valuable lesson in warmongering: Don’t get caught. But now Loki has a whole new set of responsibilities — and his brother Thor isn’t about to let him walk away from them. Restless with his new duties, Loki seeks out the advice of the closest thing Midgard has to a king — Tony Stark, the invincible Iron Man! Close enough, right? But it turns out that Shellhead isn’t too happy to see Loki on account of all that stuff he did in the past. Now the God of Mischief/Stories/Evil/Chaos has to outsmart the cleverest man on Earth — or die (again) trying. Meanwhile, could Thor be hatching a mischievous plot of his own?",
+        "poster" : "https://comicvine.gamespot.com/a/uploads/original/6/67663/7205229-01.jpg",
+        "comicId" : 732933,
+        "name" : "Loki: The God Who Fell To Earth TPB",
         "characters" : [
             {
                 "id" : 4324,
@@ -36,10 +39,13 @@
         ]
     },
     {
-        "id" : 2,
-        "tagline" : "What have Sam and Bucky been up to?",
+        "id" : 1,
+        "tagline" : "Now a Disney+ Series",
         "title" : "The Falcon and the Winter Soldier",
-        "blurb" : "Falcon and the Winter Soldier are a mismatched duo who team up for a global adventure that will test their survival skills -- as well as their patience.",
+        "blurb" : "The spy-fi, high-flying adventures of Sam Wilson ”the all-new Captain America” begin here! Hydra has infiltrated society completely, but why? Cap's new partnership with Nomad is tested as they race to uncover the Sect of the Unknown, but Hydra gathers Steve Rogers' old rogues' gallery to take down the new heroes! The all-new Captain America battles Sin and Baron Blood, and uncovers the new Hydra's ultimate goal...but is it too late? Millions of innocent souls hang in the balance - but broken and nearly dead from Hydra's gauntlet, can Cap stop the Great Leveling? In the face of Zemo's atrocities, Sam Wilson will earn his stripes, "make the single greatest sacrifice of his life," and he will never be the same again. The stage is set for the Age of Hydra! Collecting ALL-NEW CAPTAIN AMERICA #1-6.",
+        "poster" : "https://comicvine.gamespot.com/a/uploads/original/6/67663/4655892-01.jpg",
+        "comicId" : 493034,
+        "name" : "All-New Captain America: Hydra Ascendant",
         "characters" : [
             {
                 "id" : 1451,
@@ -79,10 +85,13 @@
         ]
     },
     {
-        "id" : 3,
+        "id" : 2,
         "tagline" : "Now on Amazon Prime!",
         "title" : "Invincible",
-        "blurb" : "Seventeen-year-old Mark Grayson is just like every guy his age, except that his father is Omni-Man, the most powerful superhero on the planet. As Mark develops powers of his own, he discovers his father's legacy may not be as heroic as it seems.",
+        "blurb" : "Mark Grayson is a young kid in high school who begins to develop the super powers he inherited from his father. As he begins to grow into a hero and fight crime, he meets a group of heroes called the Teen Team. Invincible stops one of his high school teachers who was behind the mall bombings that were happening.",
+        "poster" : "https://comicvine.gamespot.com/a/uploads/original/6/67663/3498091-01.jpg",
+        "comicId" : 412393,
+        "name" : "Invincible: Family Matters",
         "characters" : [
             {
                 "id" : 5210,
