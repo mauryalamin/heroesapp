@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1440,
+    "name": "Wolverine",
+    "image": "https://mauryalamin.github.io/heroesapp-data/wolverine.png"
+  },
+  {
+    "id": 1807,
+    "name": "Superman",
+    "image": "https://mauryalamin.github.io/heroesapp-data/superman.png"
+  },
+  {
+    "id": 1699,
+    "name": "Batman",
+    "image": "https://mauryalamin.github.io/heroesapp-data/batman.png"
+  },
+  {
+    "id": 1443,
+    "name": "Spider-Man",
+    "image": "https://mauryalamin.github.io/heroesapp-data/spiderman.png"
+  },
+  {
+    "id": 2048,
+    "name": "Wonder Woman",
+    "image": "https://mauryalamin.github.io/heroesapp-data/wonderwoman.png"
+  },
+  {
+    "id": 1442,
+    "name": "Captain America",
+    "image": "https://mauryalamin.github.io/heroesapp-data/captainamerica.png"
+  },
+  {
+    "id": 2268,
+    "name": "Thor",
+    "image": "https://mauryalamin.github.io/heroesapp-data/thor.png"
+  },
+  {
+    "id": 3381,
+    "name": "Spawn",
+    "image": "https://mauryalamin.github.io/heroesapp-data/spawn.png"
+  },
+  {
+    "id": 2267,
+    "name": "Hulk",
+    "image": "https://mauryalamin.github.io/heroesapp-data/hulk.png"
+  },
+  {
+    "id": 1691,
+    "name": "Dick Grayson",
+    "image": "https://mauryalamin.github.io/heroesapp-data/robin.png"
+  }
+]
