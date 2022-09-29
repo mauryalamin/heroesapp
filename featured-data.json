@@ -11,30 +11,46 @@
             {
                 "id" : 4324,
                 "deck": "Loki is the Jötunn/Asgardian God of Mischief and Prince of Lies, the adopted son of Odin and typically nemesis of his brother, Thor, as well as the adoptive brother to former Guardian of the Galaxy, Angela. Loki has schemed against Thor and Asgard for ages and his cosmic meddling led to the formation of the Avengers. Recently reincarnated, he decided to reform. Going on to protect the realms as the agent of Asgard, then as the sorcerer supreme, to defeating Laufey and becoming king of Jotunnheim.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/12/124259/6985439-loki.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/12/124259/6985439-loki.jpg"
+                },
                 "name" : "Loki",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 28215,
                 "deck" : "Senior executive of middle management in the Time Variance Authority.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/1/15776/1006268-mobius.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/1/15776/1006268-mobius.jpg"
+                },
                 "name" : "Mr. Mobius",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 27265,
                 "deck" : "A time-traveling princess, conqueror, and assassin, Princess Ravonna has gone by many names: Terminatrix, Temptress, Revelation, and Nebula, and has battled the Avengers and the Fantastic Four.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/2439659-ohotmu_a_to_z__3___page_44.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/2439659-ohotmu_a_to_z__3___page_44.jpg"
+                },
                 "name" : "Ravonna",
-                "publisher": "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 2264,
                 "deck" : "A time-traveling conqueror with vast powers and technological supremacy, Kang the Conqueror has taken every opportunity to torment the Marvel Universe, and is one of the Avengers' greatest foes. Kang has amassed an empire with a citizenry of millions, and cut a swath of terror through the ages.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3388625-youngavengers00503.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3388625-youngavengers00503.jpg"
+                },
                 "name" : "Kang",
-                "publisher": "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             }
         ]
     },
@@ -50,37 +66,57 @@
             {
                 "id" : 1451,
                 "deck" : "A social worker turned hero, Sam Wilson's bleak outlook on life was wiped away the day he met Captain America. Using a winged costume and his remarkable combat prowess and avian telepathy, he became the Falcon - defender of Harlem.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/113509/5939223-falcon%20cap.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/113509/5939223-falcon%20cap.jpg"
+                },
                 "name" : "Falcon",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 40470,
                 "deck" : "Believed dead near the end of World War II only to have been found and brainwashed by the Soviets for the next 50 years, Captain America's former sidekick now continues to defend his country from the shadows against those who would threaten it as legendary spy and assassin, the Winter Soldier. He became the new Captain America to honor his friend Steve and he joined the Avengers. When Steve returned as Captain America, Bucky took on the identity of the Winter Soldier once again.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/14/149570/4066832-image-93.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/14/149570/4066832-image-93.jpg"
+                },
                 "name" : "Bucky Barnes",
-                "publisher": "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 14992,
                 "deck" : "John Walker had his strength enhanced in hopes of being a hero for his country like his fallen brother. After a tenure upholding the mantle of Captain America, Walker re-established himself as U.S.Agent where he went on to have extensive service as a member of, and even leader to, the Avengers.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/12/124259/7825932-usagent2020005_renaud_var-scaled.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/12/124259/7825932-usagent2020005_renaud_var-scaled.jpg"
+                },
                 "name" : "U.S.Agent",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 13744,
                 "deck" : "Battlestar received strength augmentation process from the Power Broker and acted as sidekick to his close friend John Walker when he assumed the role of Captain America. He later joined with Silver Sable and the Wild Pack.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3097794-supreme00101.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3097794-supreme00101.jpg"
+                },
                 "name" : "Battlestar",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             },
             {
                 "id" : 3278,
                 "deck" : "The 13th Baron in the Zemo bloodline. Helmut followed in the footsteps of his father before him, becoming an enemy of Captain America and the Avengers. In what could be his greatest scheme ever, Helmut masqueraded as Citizen V and led the Thunderbolts to public acclaim in order to conquer the world. In the end, he failed only because his cohorts desired to remain heroes and rebelled against him.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3510411-hulk00905.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/117763/3510411-hulk00905.jpg"
+                },
                 "name" : "Baron Helmut Zemo",
-                "publisher" : "Marvel"
+                "publisher" : {
+                    "name" : "Marvel"
+                }
             }
         ]
     },
@@ -96,37 +132,57 @@
             {
                 "id" : 5210,
                 "deck" : "Girls, acne, homework and supervillains. When you're a teenager it pays to be - Invincible. Mark Grayson is the hero Invincible, whom is a Viltrumite/Human hybrid. Mark is one of the greatest heroes on Earth and is the son of Omni-Man. The new emperor of the Viltrum empire is a true hero to the very end.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/6/62058/2234638-inv_041_13.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/6/62058/2234638-inv_041_13.jpg"
+                },
                 "name" : "Invincible",
-                "publisher" : "Skybound"
+                "publisher" : {
+                    "name" : "Skybound"
+                }
             },
             {
                 "id" : 40550,
                 "deck" : "Father of the famous teen superhero Invincible, Omni-Man is a Viltrumite. Originally a hero turned supervillian, but has since learned the error of his ways and is trying to redeem himself, but knows that he can never return to earth.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/0/308/78794-161573-omni-man.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/0/308/78794-161573-omni-man.jpg"
+                },
                 "name" : "Omni-Man",
-                "publisher" : "Skybound"
+                "publisher" : {
+                    "name" : "Skybound"
+                }
             },
             {
                 "id" : 41127,
                 "deck" : "Amber Bennett attended high school with Mark Grayson.  She was his first girlfriend but the two have since broken up.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/0/308/84146-158488-amber-bennett.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/0/308/84146-158488-amber-bennett.jpg"
+                },
                 "name" : "Amber Bennett",
-                "publisher" : "Skybound"
+                "publisher" : {
+                    "name" : "Skybound"
+                }
             },
             {
                 "id" : 40947,
                 "deck" : "Atom Eve is a superhero in Robert Kirkman's Invincible comic series and the main female lead. She has the power of Transmutation and is capable of transforming matter into anything she desires. Currently, she has reunited with Invincible and the two finally got married and are now prepared to end the threat of the Viltrumite Empire under Thragg.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/0/308/164081-102972-atom-eve.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/0/308/164081-102972-atom-eve.jpg"
+                },
                 "name" : "Atom Eve",
-                "publisher" : "Skybound"
+                "publisher" : {
+                    "name" : "Skybound"
+                }
             },
             {
                 "id" : 41202,
                 "deck" : "The genial blue-skinned hulking duo that seeks to rule over the world: The Mauler Twins are actually one person. One is a clone of the other and they constantly argue over who was the original.",
-                "image" : "https://comicvine.gamespot.com/a/uploads/original/11/111746/6493361-052_0015.jpg",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11/111746/6493361-052_0015.jpg"
+                },
                 "name" : "Mauler Twins",
-                "publisher" : "Skybound"
+                "publisher" : {
+                    "name" : "Skybound"
+                }
             }
         ]
     }
