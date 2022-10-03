@@ -185,5 +185,60 @@
                 }
             }
         ]
+    },
+    {
+        "id" : 3,
+        "tagline" : "New to Disney+!",
+        "title" : "Moon Knight",
+        "blurb" : "Steven Grant and mercenary Marc Spector investigate the mysteries of the Egyptian gods from inside the same body.",
+        "poster" : "https://comicvine.gamespot.com/a/uploads/original/2/22664/2133276-mk_by_b_m1.jpg",
+        "comicId" : 307713,
+        "name" : "Volume One",
+        "characters" : [
+            {
+                "id" : 1493,
+                "deck" : "Moon Knight, Marc Spector, Steven Grant, and Jake Lockley: four different aspects of the same man who was resurrected by Khonshu (the Egyptian Lunar-God of Vengeance and Justice) to serve as his \"avatar.\" Those unjust mortals who prey upon the innocents traveling at night, with powers that come from the moon, beware the Vengeance of the Moon Knight!",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/12/124259/8102817-moonknight.jpg"
+                },
+                "name" : "Moon Knight",
+                "publisher" : {
+                    "name" : "Marvel"
+                }
+            },
+            {
+                "id" : 175385,
+                "deck" : "No Description Provided",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/11112/111123579/8370092-arthur_harrow_%28earth-616%29_in_moon_knight_vol_2_2.png"
+                },
+                "name" : "Arthur Harrow",
+                "publisher" : {
+                    "name" : "Marvel"
+                }
+            },
+            {
+                "id" : 42387,
+                "deck" : "The Egyptian god of vengeance and the moon. His avatar on Earth is the costumed crime fighter called Moon Knight.",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/3/31666/5490661-moonkn2016010-smallwood.jpg"
+                },
+                "name" : "Khonshu",
+                "publisher" : {
+                    "name" : "In the Public Domain"
+                }
+            },
+            {
+                "id" : 13887,
+                "deck" : "Two men have held the scarlet scarab which bestowed mystic powers upon them which they used to become heroes of Egypt.",
+                "image" : {
+                    "original_url" : "https://comicvine.gamespot.com/a/uploads/original/0/4053/133901-98200-scarlet-scarab.jpg"
+                },
+                "name" : "Scarlet Scarab",
+                "publisher" : {
+                    "name" : "Marvel"
+                }
+            }
+        ]
     }
 ]
