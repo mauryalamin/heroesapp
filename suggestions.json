@@ -5,14 +5,9 @@
     "image": "https://mauryalamin.github.io/heroesapp-data/wolverine.png"
   },
   {
-    "id": 1807,
-    "name": "Superman",
-    "image": "https://mauryalamin.github.io/heroesapp-data/superman.png"
-  },
-  {
-    "id": 1699,
-    "name": "Batman",
-    "image": "https://mauryalamin.github.io/heroesapp-data/batman.png"
+    "id": 1686,
+    "name": "Kon-El",
+    "image": "https://mauryalamin.github.io/heroesapp-data/konel.png"
   },
   {
     "id": 1443,
@@ -20,33 +15,88 @@
     "image": "https://mauryalamin.github.io/heroesapp-data/spiderman.png"
   },
   {
-    "id": 2048,
-    "name": "Wonder Woman",
-    "image": "https://mauryalamin.github.io/heroesapp-data/wonderwoman.png"
+    "id": 1699,
+    "name": "Batman",
+    "image": "https://mauryalamin.github.io/heroesapp-data/batman.png"
   },
   {
-    "id": 1442,
-    "name": "Captain America",
-    "image": "https://mauryalamin.github.io/heroesapp-data/captainamerica.png"
+    "id": 1444,
+    "name": "Stoerm",
+    "image": "https://mauryalamin.github.io/heroesapp-data/storm.png"
   },
   {
-    "id": 2268,
-    "name": "Thor",
-    "image": "https://mauryalamin.github.io/heroesapp-data/thor.png"
+    "id": 1807,
+    "name": "Superman",
+    "image": "https://mauryalamin.github.io/heroesapp-data/superman.png"
   },
   {
-    "id": 3381,
-    "name": "Spawn",
-    "image": "https://mauryalamin.github.io/heroesapp-data/spawn.png"
-  },
-  {
-    "id": 2267,
-    "name": "Hulk",
-    "image": "https://mauryalamin.github.io/heroesapp-data/hulk.png"
+    "id": 1449,
+    "name": "She-Hulk",
+    "image": "https://mauryalamin.github.io/heroesapp-data/shehulk.png"
   },
   {
     "id": 1691,
     "name": "Dick Grayson",
     "image": "https://mauryalamin.github.io/heroesapp-data/robin.png"
+  },
+  {
+    "id": 1455,
+    "name": "Iron Man",
+    "image": "https://mauryalamin.github.io/heroesapp-data/ironman.png"
+  },
+  {
+    "id": 1847,
+    "name": "Lady Death",
+    "image": "https://mauryalamin.github.io/heroesapp-data/ladydeath.png"
+  },
+  {
+    "id": 1702,
+    "name": "Joker",
+    "image": "https://mauryalamin.github.io/heroesapp-data/joker.png"
+  },
+  {
+    "id": 1456,
+    "name": "Doctor Strange",
+    "image": "https://mauryalamin.github.io/heroesapp-data/drstrange.png"
+  },
+  {
+    "id": 2349,
+    "name": "Darkseid",
+    "image": "https://mauryalamin.github.io/heroesapp-data/darkseid.png"
+  },
+  {
+    "id": 1457,
+    "name": "Emma Frost",
+    "image": "https://mauryalamin.github.io/heroesapp-data/emmafrost.png"
+  },
+  {
+    "id": 2351,
+    "name": "Supergirl",
+    "image": "https://mauryalamin.github.io/heroesapp-data/supergirl.png"
+  },
+  {
+    "id": 1461,
+    "name": "Nightcrawler",
+    "image": "https://mauryalamin.github.io/heroesapp-data/nightcrawler.png"
+  },
+  {
+    "id": 2389,
+    "name": "Starfire",
+    "image": "https://mauryalamin.github.io/heroesapp-data/starfire.png"
+  },
+  {
+    "id": 1462,
+    "name": "Beast",
+    "image": "https://mauryalamin.github.io/heroesapp-data/beast.png"
+  },
+  {
+    "id": 3588,
+    "name": "Deathstroke",
+    "image": "https://mauryalamin.github.io/heroesapp-data/deathstroke.png"
+  },
+  {
+    "id": 1466,
+    "name": "Scarlet Witch",
+    "image": "https://mauryalamin.github.io/heroesapp-data/scarletwitch.png"
   }
 ]
